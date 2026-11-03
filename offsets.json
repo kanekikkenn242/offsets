@@ -1,0 +1,13 @@
+{
+  "status": "online",
+  "version": "1.0.0",
+  "offsets": {
+    "player_health": "0x102A4B0",
+    "player_speed": "0x102A4C4",
+    "jump_height": "0x102A4E8"
+  },
+  "settings": {
+    "god_mode": false,
+    "speed_multiplier": 1.5
+  }
+}
